@@ -12,19 +12,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/ngocbonggaming/delta/releases/download/delta/Delta.Fix.Lag.ipa</string>
+          <string>https://github.com/ngocbonggaming/delta/releases/download/delta/Deltavmgfixlag.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.garena.ngocbonglq</string>
+        <string>com.ngocbonggaming.ios</string>
         <key>bundle-version</key>
-        <string>2.730.790</string>
+        <string>2.733.988</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Delta Fix Lag</string>
+        <string>Delta X VNG</string>
       </dict>
     </dict>
   </array>

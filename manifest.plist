@@ -12,19 +12,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/ngocbonggaming/delta/releases/download/delta/Deltavmgfixlag.ipa</string>
+          <string>https://nhapcode1s.com/ipas/Roblox_VN_2.745.1138_1794177097_1794180985.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.ngocbonggaming.ios</string>
+        <string>com.robloxvng.ios</string>
         <key>bundle-version</key>
-        <string>2.733.988</string>
+        <string>2.745.1138</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Delta X VNG</string>
+        <string>Roblox VN</string>
       </dict>
     </dict>
   </array>
